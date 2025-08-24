@@ -7,7 +7,7 @@
 ---
 
 ## 📚 Overview
-This repository contains solutions to various assignments and practical exercises based on from [IIS-2121 OOPs] (OOP)** concepts implemented in **Java**. The programs demonstrate core OOP principles such as:
+This repository contains solutions to various assignments and practical exercises based on from [IIS-2121 OOPs] **(OOP)** concepts implemented in **Java**. The programs demonstrate core OOP principles such as:
 
 - Classes and Objects  
 - Inheritance  
