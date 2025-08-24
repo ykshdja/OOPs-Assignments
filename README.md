@@ -1,7 +1,7 @@
 # Java Programming Assignment
 
 **Course:** IIS - 2121 (Object-Oriented Programming using Java)  
-**Student Name:** Yash Khanduja  
+**Name:** Yash Khanduja  
 **Registration Number:** 2428020318  
 ----------------------------------
 ## 📚 Overview
